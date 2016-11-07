@@ -7,6 +7,6 @@ Run
 =======
 ```
 cc syntax_checker.c
-./a.out
+./a.out < some_file.c
 ```
 
